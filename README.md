@@ -10,7 +10,7 @@ The bank was experiencing customer churn but lacked clear visibility into which 
 ## 🎯 Project Objective
 The dashboard analyzes customer churn across multiple dimensions, including age group, gender, geography, active status, credit score, tenure, account balance, and product holdings. The goal is to uncover churn trends, identify at-risk customers, and support data-driven decision-making.
 ****
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies Used
 - SQL (Data Exploration & Analysis)
 - Power BI
 - Power Query (Data Cleaning & Transformation)
